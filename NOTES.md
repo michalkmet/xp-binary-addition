@@ -22,3 +22,5 @@ Pomodoro 1:
 - ✅ UAT1.1: When given empty array, return exception
 - ✅ UAT1.2: When given boolean, return exception
 - ✅ UAT1.3: When given only one number, return exception
+
+- ✅ TODO UAT2.1: When given 0,0, return 0

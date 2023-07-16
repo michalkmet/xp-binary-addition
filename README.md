@@ -17,9 +17,9 @@ Examples:(Input1, Input2 --> Output (explanation)))
 ## Backlog
 
 Story 1 - When given wrong input, return exception
-- ⚠ TODO UAT1.1: When given empty array, return exception
-- ⚠ TODO UAT1.2: When given boolean, return exception
-- ⚠ TODO UAT1.3: When given only one number, return exception
+- ✅ TODO UAT1.1: When given empty array, return exception
+- ✅ TODO UAT1.2: When given boolean, return exception
+- ✅ TODO UAT1.3: When given only one number, return exception
 
 Story 2 - When given two small numbers, return result of addition in decimal
 - ⚠ TODO UAT2.1: When given 0,0, return 0
