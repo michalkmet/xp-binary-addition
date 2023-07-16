@@ -17,5 +17,6 @@ Examples:(Input1, Input2 --> Output (explanation)))
 ## Plans
 
 Pomodoro 1:
-- ⚠ Create user stories
+- ✅ Create user stories
 - ✅ first refactor - file names etc. 
+- ✅ UAT1.1: When given empty array, return exception

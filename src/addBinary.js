@@ -1,5 +1,5 @@
 function addBinary() {
-  return 'hello';
+  throw new Error();
 }
 
 module.exports = addBinary;
