@@ -7,4 +7,7 @@ describe('Story 1', () => {
   it('UAT1.2: When given boolean, return exception', () => {
     expect(() => addBinary(true)).toThrow();
   });
+  it('UAT1.3: When given only one number, return exception', () => {
+    expect(() => addBinary(true)).toThrow();
+  });
 });
