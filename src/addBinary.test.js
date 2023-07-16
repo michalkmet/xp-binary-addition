@@ -16,4 +16,7 @@ describe('Story 2', () => {
   it('UAT2.1: When given 0,0, return 0', () => {
     expect(addBinary(0,0)).toBe(0);
   });
+  it('UAT2.2: When given 1,0, return 1', () => {
+    expect(addBinary(0,1)).toBe(1);
+  });
 });
