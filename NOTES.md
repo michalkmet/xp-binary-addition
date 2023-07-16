@@ -25,3 +25,4 @@ Pomodoro 1:
 
 - ✅ TODO UAT2.1: When given 0,0, return 0
 - ✅ TODO UAT2.2: When given 1,0, return 1
+- ✅ TODO UAT2.3: When given 1,1, return 10
