@@ -22,4 +22,7 @@ describe('Story 2', () => {
   it('UAT2.3: When given 1,1, return 10', () => {
     expect(addBinary(1,1)).toBe(10);
   });
+  it('UAT2.4: When given 1,2, return 11', () => {
+    expect(addBinary(1,2)).toBe(11);
+  });
 });
