@@ -15,7 +15,7 @@ function addBinary(number1, number2) {
   } else {
     while (numberAfterAddition >= 1) {
       remainder = numberAfterAddition % 2;
-      numberAfterAddition = numberAfterAddition / 2;
+      numberAfterAddition = Math.floor(numberAfterAddition / 2);
       resultReverse.push(remainder);
     }
   }

@@ -33,3 +33,4 @@ Pomodoro 2:
 
 Pomodoro 3:
 - ✅ TODO UAT2.3: When given 1,1, return 10
+- ✅ TODO UAT2.4: When given 1,2, return 11
