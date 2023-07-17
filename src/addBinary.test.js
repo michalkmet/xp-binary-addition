@@ -28,4 +28,7 @@ describe('Story 2', () => {
   it('UAT2.5: When given 2,2, return 100', () => {
     expect(addBinary(2,2)).toBe(100);
   });
+  it('UAT2.5: When given 0,5, return 101', () => {
+    expect(addBinary(0,5)).toBe(101);
+  });
 });

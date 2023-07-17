@@ -35,3 +35,6 @@ Pomodoro 3:
 - ✅ UAT2.3: When given 1,1, return 10
 - ✅ UAT2.4: When given 1,2, return 11
 - ✅ UAT2.5: When given 2,2, return 100
+
+Pomodoro 4:
+- ✅ UAT2.6: When given 0,5, return 101

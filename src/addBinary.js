@@ -10,7 +10,7 @@ function addBinary(number1, number2) {
 
   if (number1 === 0 && number2 === 0) {
     return 0;
-  } else if (number1 === 1 && number2 === 0) {
+  } else if (numberAfterAddition === 1) {
     return 1;
   } else {
     while (numberAfterAddition >= 1) {
