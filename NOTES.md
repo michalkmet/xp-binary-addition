@@ -23,14 +23,15 @@ Pomodoro 1:
 - ✅ UAT1.2: When given boolean, return exception
 - ✅ UAT1.3: When given only one number, return exception
 
-- ✅ TODO UAT2.1: When given 0,0, return 0
-- ✅ TODO UAT2.2: When given 1,0, return 1
-- ✅ TODO UAT2.3: When given 1,1, return 10
-- 🚧 TODO UAT2.4: When given 1,2, return 11
+- ✅ UAT2.1: When given 0,0, return 0
+- ✅ UAT2.2: When given 1,0, return 1
+- ✅ UAT2.3: When given 1,1, return 10
+- 🚧 UAT2.4: When given 1,2, return 11
 
 Pomodoro 2:
-- 🚧 TODO UAT2.3: When given 1,1, return 10
+- 🚧 UAT2.3: When given 1,1, return 10
 
 Pomodoro 3:
-- ✅ TODO UAT2.3: When given 1,1, return 10
-- ✅ TODO UAT2.4: When given 1,2, return 11
+- ✅ UAT2.3: When given 1,1, return 10
+- ✅ UAT2.4: When given 1,2, return 11
+- ✅ UAT2.5: When given 2,2, return 100
