@@ -9,9 +9,9 @@ function addBinary(number1, number2) {
   let resultReverse = [];
 
   if (number1 === 0 && number2 === 0) {
-    return 0;
+    return '0';
   } else if (numberAfterAddition === 1) {
-    return 1;
+    return '1';
   } else {
     while (numberAfterAddition >= 1) {
       remainder = numberAfterAddition % 2;
@@ -22,7 +22,7 @@ function addBinary(number1, number2) {
   resultReverse.reverse().forEach((val) => {
     result += val;
   });
-  return Number(result);
+  return result;
 }
 
 module.exports = addBinary;
