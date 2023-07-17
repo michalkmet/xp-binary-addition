@@ -29,5 +29,5 @@ Story 2 - When given two small numbers, return result of addition in decimal
 - ✅ TODO UAT2.5: When given 2,2, return 100
 - ✅ TODO UAT2.6: When given 0,5, return 101
 - ✅ TODO UAT2.7: When given 1,5, return 110
-- ⚠ TODO UAT2.8: When given 7,5, return 1100
+- ✅ TODO UAT2.8: When given 7,5, return 1100
 
