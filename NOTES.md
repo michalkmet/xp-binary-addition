@@ -39,5 +39,5 @@ Pomodoro 3:
 Pomodoro 4:
 - ✅ UAT2.6: When given 0,5, return 101
 - ✅ UAT2.7: When given 1,5, return 110
-- ⚠ TODO UAT2.8: When given 7,5, return 1100
+- ✅ UAT2.8: When given 7,5, return 1100
 
